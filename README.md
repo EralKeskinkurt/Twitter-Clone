@@ -1,42 +1,51 @@
-# Nuxt 3 Minimal Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Twitter Clone
 
-## Setup
+The purpose of this project is to practice and improve with Css and Tailwind. This project is purely for Front end development.
 
-Make sure to install the dependencies:
+# Languages Used in the Project
 
-```bash
-# yarn
-yarn install
+- Nuxt-Vue
+- Tailwind
+- Javascript
 
-# npm
-npm install
+![example image](twit-clone.PNG)
 
-# pnpm
-pnpm install
-```
+# Setup
 
-## Development Server
+To run this project, you must first have Node.js and NPM installed. To install them, follow these steps:
 
-Start the development server on `http://localhost:3000`
 
-```bash
-npm run dev
-```
+1. Download and install the latest version of [Node.js](https://nodejs.org/en/download/).
+2. To install NPM, run the following command in terminal:
 
-## Production
+`npm install -g npm`.
 
-Build the application for production:
+Next, follow these steps to clone the project locally and install the required dependencies:
 
-```bash
-npm run build
-```
 
-Locally preview production build:
+`   
+$ git clonehttps:githubcomTamperMonkeyUppTwitter-Clonegit
+`
 
-```bash
-npm run preview
-```
+`
+$ cd Twitter-Clone
+`
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+`
+$ npm install
+`
+
+## Use
+
+Follow the steps below to run the application:
+
+`
+$ npm run dev
+`
+
+The application will run at `http://localhost:3000`.
+
+
+
+
