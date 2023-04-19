@@ -9,6 +9,10 @@ The purpose of this project is to practice and improve with Css and Tailwind. Th
 - Tailwind
 - Javascript
 
+# Live Preview
+[liveweb](http://eral-twitter-clone.netlify.app)
+
+# Example Image
 ![example image](twit-clone.PNG)
 
 # Setup
