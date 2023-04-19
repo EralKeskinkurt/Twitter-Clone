@@ -42,9 +42,9 @@
 import {ref} from "#imports";
 const trendsForYou = ref([
     {id: 1, trending: 'Sports Trending', title: 'YÖNETİM İSTİFA', twitCount: '3.558'},
-    {id: 2, trending: 'Trending in Turkey', title: 'ERDOĞAN İSTİFA', twitCount: '324.234.234'},
-    {id: 3, trending: 'Sports Trending', title: 'Yaşasın 23 Nisan', twitCount: '3.558'},
-    {id: 4, trending: 'Trending in Turkey', title: 'Bruh', twitCount: '3.558'},
+    {id: 2, trending: 'Trending in Turkey', title: 'Nuxt3', twitCount: '324.234.234'},
+    {id: 3, trending: 'Sports Trending', title: 'Tailwindcss', twitCount: '3.558'},
+    {id: 4, trending: 'Trending in Turkey', title: 'VUE', twitCount: '3.558'},
     {id: 5, trending: 'Sports Trending', title: 'Lamine Diack', twitCount: '3.558'},
 ])
 </script>
