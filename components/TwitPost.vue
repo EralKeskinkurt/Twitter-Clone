@@ -18,15 +18,17 @@
             </span>
             </div>
             <div class="text-sm text-normalWhite">
-                Nuxt v3.3 is out ✨<br><br>
+                Nuxt 3.4 is out ✨ <br><br>
 
-                ⚡️ Automatically register local modules <br>
-                ♻️ Custom watch mode <br>
-                🔥 Opt-in to core Nuxt optimisations <br>
-                💪 Greater type safety with NuxtApp <br>
-                🪵 Better trace logging in browser dev tools <br><br>
-
-                https://nuxt.com/blog/v3-3
+                🪄 View Transitions API Support <br>
+                ✨ Payload Enhancements <br>
+                🎁 Object-syntax Nuxt plugins <br>
+                🛠️ Easier Devtools Configuration <br>
+                📚 Layers Improvements <br><br>
+                
+                Thank you to all the contributors and for your support 💚<br><br>
+                
+                <a href="https://nuxt.com/blog/v3-4" style="color:#1d9bf0;">nuxt.com/blog/v3-4</a>
             </div>
             <div class="pr-3 mt-2">
                 <img src="/images/post1.jpg" class="object-cover border-[1px] border-lowsWhite rounded-lg"
